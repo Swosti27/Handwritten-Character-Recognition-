@@ -1,0 +1,7 @@
+tensorflow-intel==2.15.0
+numpy==1.26.4
+tensorflow-datasets
+matplotlib
+seaborn
+scikit-learn
+opencv-python==4.8.1.78
